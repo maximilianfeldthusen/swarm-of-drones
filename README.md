@@ -50,7 +50,7 @@ This will print the drone positions and statuses (e.g. `[Searching]`) for each t
 
 ---
 
-###  Optional Add‑Ons
+###  Optional
 
 You can redirect the output to a log file and analyze the data:
 
