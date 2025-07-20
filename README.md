@@ -3,7 +3,7 @@
 
 ##  What the Code Does
 
-This C program simulates a swarm of drones performing a search mission:
+The C code simulates a swarm of drones performing a search mission:
 
 ###  Key Behaviors:
 - **Swarm Logic**: Drones adjust motion using *cohesion*, *separation*, and *alignment* rules.
